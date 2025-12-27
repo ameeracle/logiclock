@@ -54,7 +54,7 @@
 * 🌐 تعمل مباشرة من المتصفح
 * 📱 متوافقة مع الجوال والكمبيوتر
 * ⚡ خفيفة وسريعة
-
+![LogicLock Demo](https://github.com/ameeracle/logiclock/blob/main/Recording 2025-12-27 233830.gif)
 ---
 
 ## 🛠️ التقنيات المستخدمة
