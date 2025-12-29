@@ -1,0 +1,41 @@
+{
+    "name": "LogicLock by AMEER 😒",
+    "short_name": "LogicLock",
+    "start_url": "/logiclock/",
+    "scope": "/logiclock/",
+    "display": "standalone",
+    "background_color": "#5DADE2",
+    "theme_color": "#5DADE2",
+    "description": "LogicLock by AMEER 😒 - A logical puzzle game. Deduce secret codes using algorithmic clues! Super Mario pixel art themed.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "categories": ["games", "entertainment", "puzzle"],
+    "lang": "en",
+    "dir": "ltr",
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
